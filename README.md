@@ -1,5 +1,5 @@
 * gitskills *
-**[LUVSIC](<#jump_8)**
+**[LUVSIC](#jump_8)**
 ## luvsic like a dog with cannie sensitivity 
 ## developing this new theory of relativity
 - w
@@ -8,7 +8,7 @@
 <a id="jump_8"></a>
 >读一本好书,就是在和高尚的人谈话. --歌德
 |a|a|a|
-| :--|:--:|:--|
+| :-- | :--: | :-- |
 |b|b|b|
 ```markdown   
 mark
